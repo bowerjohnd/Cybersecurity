@@ -4,5 +4,5 @@ The purpose of this repository is to keep track of my journey to CompTIA certifi
 
 I am currently enrolled in an accelerated Network+, Security+, and CySA+ college certificate program to expand my tech knowledge to include Cybersecurity. Whether this journey strengthens my Software Developer aspirations, or pivots my tech interests to IT/Cyber is yet to be determined. For now I anticipate coming out of this program with a strong understanding of networks and a strong security-conscious approach to developing software.
 
- - <b><u>Network+</u></b>
+ - <b><ins>Network+</ins></b>
    - Started 10/13/2026
